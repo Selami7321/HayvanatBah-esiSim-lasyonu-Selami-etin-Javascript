@@ -27,7 +27,7 @@ Bu repoyu bilgisayarına klonla:
 bash
 Kopyala
 Düzenle
-git clone https://github.com/Selami7321/proje-adi.git
+git clone https://github.com/Selami7321/HayvanatBahcesiSimulasyonu-Selami-cetin-Javascript.git
 Klasöre gir ve index.html dosyasını bir tarayıcıda aç:
 
 bash
